@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/enigma-page/static/css/main.99f48ab7.chunk.css",
+    "main.js": "/enigma-page/static/js/main.93d5086a.chunk.js",
+    "main.js.map": "/enigma-page/static/js/main.93d5086a.chunk.js.map",
+    "runtime-main.js": "/enigma-page/static/js/runtime-main.75f14f56.js",
+    "runtime-main.js.map": "/enigma-page/static/js/runtime-main.75f14f56.js.map",
+    "static/js/2.87369475.chunk.js": "/enigma-page/static/js/2.87369475.chunk.js",
+    "static/js/2.87369475.chunk.js.map": "/enigma-page/static/js/2.87369475.chunk.js.map",
+    "index.html": "/enigma-page/index.html",
+    "static/css/main.99f48ab7.chunk.css.map": "/enigma-page/static/css/main.99f48ab7.chunk.css.map",
+    "static/js/2.87369475.chunk.js.LICENSE.txt": "/enigma-page/static/js/2.87369475.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75f14f56.js",
+    "static/js/2.87369475.chunk.js",
+    "static/css/main.99f48ab7.chunk.css",
+    "static/js/main.93d5086a.chunk.js"
+  ]
+}
